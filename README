@@ -1,0 +1,17 @@
+---RASPBERRY PI X11 3D BINPACKAGES---
+
+This repository contains X11EGLRPI precompiled binaries, GLshim, and other software.
+
+---------------------
+Current Software List:
+---------------------
+
+X11EGLRPI "X11 EGL Support for RaspberryPi Platform" ALPHA
+GLshim "OpenGL 1.4 support on OpenGL ES devices" BETA
+
+
+------
+NOTE
+------
+
+GLshim does not work because of a window handling problem in X11EGLRPI.
